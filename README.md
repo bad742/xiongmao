@@ -24,7 +24,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bad742
 /
-xiongmao.git)
+xiongmao)
 
 # Xray/V2Ray VLESS
 |**属性**|**值**|
